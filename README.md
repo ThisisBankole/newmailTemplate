@@ -1,3 +1,3 @@
 # Email Template for Vulte
 
-An emmail template welcoming new users to Vulte. 
+An email template welcoming new users to Vulte. 
